@@ -1,0 +1,2 @@
+# premium-earthbag-build-001-earthbag-building-barbed-wir
+Stop guessing how many rolls of barbed wire you need mid-build—your earthbag project deserves a system that keeps every bag, wire, and layer perfectly organized.  This Notion template transforms your chaotic earthbag building plans into a structured, trackable workflow. With integrated databases for materials, layers, and wire craft techniques, you
